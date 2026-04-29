@@ -16,8 +16,8 @@ const copyButtons = document.querySelectorAll(".copy-btn");
 
 const THEME_KEY = "portfolio-theme";
 const PROFILE_IMAGES = {
-  light: "assets/Gemini_Generated_Image_bzor3jbzor3jbzor.png",
-  dark: "assets/dark mode.png"
+  light: "assets/light_mode_me.png",
+  dark: "assets/dark_mode_me.png"
 };
 let testimonialIndex = 0;
 let sliderTimer;
